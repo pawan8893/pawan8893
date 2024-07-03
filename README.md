@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on Frontend Projects
 - 🤔 I’m looking for help with Backend Development
 - 💬 Ask me about C/C++,SQL,HTML,CSS,Javascript,Figma
-- 📫 How to reach me: Email-kumarpawansahh@gmail.com
+- 📫 How to reach me: kumarpawansahh@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Reach out to me for knowing this...
